@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'firebase_options.dart';
 import 'flutter_mvvm_bbs.dart';
 
+//test
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
